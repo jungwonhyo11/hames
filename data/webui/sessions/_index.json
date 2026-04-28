@@ -1,0 +1,18 @@
+[
+  {
+    "session_id": "3b3447c80d1a",
+    "title": "Hermes 를 처음 쓰는 사용자를 위한 Full Hermes Install pack 을 실행해줘. https://",
+    "workspace": "C:\\Users\\magic\\.hermes\\webui\\workspace",
+    "model": "openai/gpt-5.4-mini",
+    "message_count": 0,
+    "created_at": 1776589996.1630907,
+    "updated_at": 1776590136.568796,
+    "pinned": false,
+    "archived": false,
+    "project_id": null,
+    "profile": "default",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "estimated_cost": null
+  }
+]
